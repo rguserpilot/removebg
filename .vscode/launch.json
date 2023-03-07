@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "name": "https://github.com/imreinagretchen/removebg.git",
+            "request": "launch",
+            "url": "https://github.com/imreinagretchen/removebg.git"
+        }
+    ]
+}
